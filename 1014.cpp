@@ -1,11 +1,14 @@
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 int main()
 {
+    char x, y;
 
-    cout << "Hello world";
+    cin >> x >> y;
+
+    cout << y << " " << x;
+
 
     return 0;
 }
