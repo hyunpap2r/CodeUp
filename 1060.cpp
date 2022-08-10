@@ -5,8 +5,8 @@
     {
         int a, b;
         cin >> a >> b;
+        cout <<(a & b);
 
-        cout << (a == 1 or b == 1);
 
         return 0;
     }

@@ -5,8 +5,7 @@
     {
         int a, b;
         cin >> a >> b;
-
-        cout << (a == 1 or b == 1);
+        cout <<(a ^ b);
 
         return 0;
     }
