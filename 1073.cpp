@@ -7,9 +7,9 @@ int main()
     while (true)
     {
         cin >> a;
-        cout << a << endl;
         if (a == 0)
         break;
+        cout << a << endl;
         /* code */
     }
     
